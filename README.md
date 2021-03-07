@@ -1,5 +1,16 @@
 
+## Fructus App :apple: :strawberry: :lemon:
 A fruit encyclopedia made in Swift UI
+
+## Objectives 
+
+- How to develop an iOS 14 application with SwiftUI
+- How to create an Onboarding Screen with Page Tab View
+- How to store the state of the app with the new App Storag
+- How to display an Onboarding or a Home screen
+- Understand how the new App Life Cycle works in SwiftUI 
+- Learn how to use the new Link View in SwiftUI
+- How to display views dynamically in a List View with a loop
 
 ## Screens
 
